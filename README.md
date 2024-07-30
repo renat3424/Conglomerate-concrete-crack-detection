@@ -6,7 +6,7 @@ Conglomerate concrete crack detection as image segmentation task based on use of
 
 ![alt text](./img/test_accuracy.png)
 
-for SegNet it is 0.51
+for SegNet it is 0.51.
 Results for 4 random test samples:
 
 ![alt text](./img/predicted4.png)
